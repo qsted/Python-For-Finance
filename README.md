@@ -8,6 +8,8 @@
 ## Portfolio Theory; 
 ## Options and Futures; 
 ## Value at Risk; 
-## Monte Carlo Simulation; Credit Risk Analysis; Exotic Options; 
+## Monte Carlo Simulation; 
+## Credit Risk Analysis; 
+## Exotic Options; 
 ## Volatility, Implied Volatility, ARCH, and GARCH
 
